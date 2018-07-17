@@ -14,9 +14,9 @@ This page gathers some of my past and current musical projects. I am mostly inte
 I frequently compose and arrange electronic parts as well as horn and rhythm sections for popular music in collaboration with other musicians, for instance on Open Season's "Boombay". Here are some of the pieces that I composed in entirety.
 
 Out on the Terrace - old-school instrumental composed for Open Season, playing trumpet on the recording
-<iframe width="100%" height="166" frameborder="no" src="http://www.youtube.com/embed/CVDkohO-H9I"></iframe>
+<iframe width="100%" height="166" frameborder="no" src="https://www.youtube.com/embed/CVDkohO-H9I"></iframe>
 The Moon is Waiting - old-school instrumental composed for Open Season, playing trumpet on the recording
-<iframe width="100%" height="166" frameborder="no" src="http://www.youtube.com/embed/XEiZMO-K-E8"></iframe>
+<iframe width="100%" height="166" frameborder="no" src="https://www.youtube.com/embed/XEiZMO-K-E8"></iframe>
 Elephant Walk - ska jazz instrumental composed for Open Season, playing trumpet on the recording
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/florianthalmann/open-season-elephant-walk"></iframe>
 Speed Up, Vansy - ska jazz instrumental composed for Open Season, playing trumpet on the recording
@@ -49,11 +49,11 @@ An improvised piece created with BigBang by dynamically interacting with the cre
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/bigbangrubette/selections"></iframe>
 
 Improvisations on the Grand Piano with Ableton Push, Leap Motion Gestures, and BigBang.
-<iframe width="49.5%" height="166" frameborder="no" style="display:inline-block;" src="http://www.youtube.com/embed/n2Pi281XZP4"></iframe>
-<iframe width="49.5%" height="166" frameborder="no" style="display:inline-block;" src="http://www.youtube.com/embed/ytGcKfhzF2Q "></iframe>
+<iframe width="49.5%" height="166" frameborder="no" style="display:inline-block;" src="https://www.youtube.com/embed/n2Pi281XZP4"></iframe>
+<iframe width="49.5%" height="166" frameborder="no" style="display:inline-block;" src="https://www.youtube.com/embed/ytGcKfhzF2Q "></iframe>
 
 Two solos with Akai EWI (temporally displaced) and trumpet in Open Season's Iron Dub.
-<iframe width="100%" height="166" frameborder="no" src="http://www.youtube.com/embed/x2ft_GB7jmc"></iframe>
+<iframe width="100%" height="166" frameborder="no" src="https://www.youtube.com/embed/x2ft_GB7jmc"></iframe>
 
 Performing live with Nebelle at Dampfzentrale Bern (trumpet and electronics).
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/florianthalmann/nebelle-nepop-live-at-dampfzentrale"></iframe>
@@ -73,7 +73,7 @@ Here are some pieces I produced and recorded in collaboration with various music
 <!--I am currently recording and producing an EP for <a href="https://www.facebook.com/thesiegfriedsandtoys" target="blank">The Siegfrieds and Toys</a>, soon to appear.-->
 
 Remix of Isleworth Mona Lisa, Jeans for Jesus
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://bandcamp.com/EmbeddedPlayer/album=1046745140/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=804022102/transparent=true/" seamless><a href="http://jeansforjesus.bandcamp.com/album/remix">Isleworth Mona Lisa (Flobot & Stinae Remix) Jeans for Jesus</a></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://bandcamp.com/EmbeddedPlayer/album=1046745140/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=804022102/transparent=true/" seamless><a href="https://jeansforjesus.bandcamp.com/album/remix">Isleworth Mona Lisa (Flobot & Stinae Remix) Jeans for Jesus</a></iframe>
 
 Production for Siegfrieds and Toys
 <iframe width="100%" height="60" scrolling="no" frameborder="no" src="https://mx3.ch/t/1gVE/embed/standard" allowfullscreen></iframe>
