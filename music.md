@@ -15,29 +15,40 @@ I frequently compose and arrange electronic parts as well as horn and rhythm sec
 
 Out on the Terrace - old-school instrumental composed for Open Season, playing trumpet on the recording
 <iframe width="100%" height="166" frameborder="no" src="https://www.youtube.com/embed/CVDkohO-H9I"></iframe>
+
 The Moon is Waiting - old-school instrumental composed for Open Season, playing trumpet on the recording
 <iframe width="100%" height="166" frameborder="no" src="https://www.youtube.com/embed/XEiZMO-K-E8"></iframe>
+
 Elephant Walk - ska jazz instrumental composed for Open Season, playing trumpet on the recording
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/florianthalmann/open-season-elephant-walk"></iframe>
+
 Speed Up, Vansy - ska jazz instrumental composed for Open Season, playing trumpet on the recording
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/florianthalmann/open-season-speed-up-vansy"></iframe>
 
 Some of my older experimental jazz music only exists as scores. Here are a few examples written for small formations, mostly trios and quartets.
+
 <a href="scores/Stoub.pdf" target="blank">Stoub</a>
+
 <a href="scores/Berglied.pdf" target="blank">Berglied</a>
+
 <a href="scores/sieben.pdf" target="blank">sieben</a>
+
 <a href="scores/acht.pdf" target="blank">acht</a>
 
 ### A few examples that illustrate BigBang's capabilities
 
 A short spectral piece using a number of spacially distributed sine oscillators transforming in various groups (this piece can also be watched during gesturalization in BigBang on <a href="https://www.youtube.com/watch?v=JlIpjOlKYUc" target="blank">YouTube</a>)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/bigbangrubette/spectrum4"></iframe>
+
 A seemingly improvised piece for several guitars, emerging from a simple transformation of a Scarlatti sonata
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/bigbangrubette/k002"></iframe>
+
 A rhythmical structure of overlapping sound sources resulting in beating patterns
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/bigbangrubette/k003"></iframe>
+
 A minimalistic spectral piece emerging from spacially distributed oscillators growing and decreasing in number
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/bigbangrubette/slices"></iframe>
+
 An UPIC-inspired piece consisting of transformed and reiterated freehand drawings
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/bigbangrubette/upic"></iframe>
 
