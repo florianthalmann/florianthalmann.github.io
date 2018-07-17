@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Image Transformation with Rubato Composer"
+date:   2012-01-01 22:23:58 +0000
+categories: multidimensional image transformation rubato composer bigbang
+image: "/assets/img/projects/paintbrushes.jpg"
+---
+The ImageFileIn and ImageFileOut rubettes and a new form allow for image processing in Rubato Composer.
+
+![My helpful screenshot]({{ "/assets/img/projects/paintbrushes.jpg" }})

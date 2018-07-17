@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Poiectical Scores Keep Track of the Composition Process"
+date:   2011-01-01 22:23:58 +0000
+categories: composition process graph rubato composer bigbang
+image: "/assets/img/projects/process.jpg"
+---
+A new version of BigBang records the creative process of its users and allows them to interact with the past.
+
+![My helpful screenshot]({{ "/assets/img/projects/process.jpg" }})

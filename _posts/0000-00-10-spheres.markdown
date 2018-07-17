@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Harmony of the Spheres"
+date:   2015-01-01 22:23:58 +0000
+categories: leap motion gestural control bigbang
+image: "/assets/img/projects/physics.jpg"
+---
+Prototypes of a new synthesis software based on physics and multitouch, currently with Processing and Pd.
+
+![My helpful screenshot]({{ "/assets/img/projects/physics.jpg" }})

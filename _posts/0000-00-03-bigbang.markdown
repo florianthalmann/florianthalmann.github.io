@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "The BigBang Rubette"
+date:   2008-01-01 22:23:58 +0000
+categories: bigbang gestures rubato composer transformation
+image: "/assets/img/projects/wallpaper.jpg"
+---
+A new rubette brings intuitive gestural control to Rubato Composer's mathematical structures. Musical objects can be created and transformed in real time.
+
+![My helpful screenshot]({{ "/assets/img/projects/wallpaper.jpg" }})

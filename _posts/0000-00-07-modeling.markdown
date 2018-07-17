@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Mathematical Modeling of Musical Entities"
+date:   2013-01-01 22:23:58 +0000
+categories: mathematical model music theory category theory
+image: "/assets/img/projects/progression.jpg"
+---
+Rubato Composer's versatility and generality becomes tangible with new examples of musical datatypes.
+
+![My helpful screenshot]({{ "/assets/img/projects/progression.jpg" }})
