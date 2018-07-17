@@ -22,7 +22,7 @@ url: florianthalmann.github.io # the base hostname & protocol for your site, e.g
 #twitter_username: furotaru
 github_username:  florianthalmann
 header_pages:
-  - projjects.md
+  - projjjects.md
   - research.md
   - music.md
   - software.md
