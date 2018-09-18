@@ -10,6 +10,17 @@ My specialties include Web and mobile apps and my most fluent languages are Type
 
 ## Web Apps
 
+#### Play it Again! Use it Together
+
+
+
+Web application for the exhibition Play it Again! Use it Together with the Open Music Archive at Victoria Gallery in Liverpool, where Shellac records are being digitised, analyzed automatically, and fed into an archiving system based on Semantic Web technologies. A Node server generates an infinite growing composition created from recently digitized material and sent to all clients, one of which also plays in the exhibition.
+<a href="https://www.playitagainuseittogether.com" target="blank">Live</a>
+/
+<a href="https://github.com/open-music-archive" target="blank">GitHub</a>
+
+<img src="/assets/img/projects/piauit.png" width="400" />
+
 #### Fast Dj
 
 An automatic web-based minimal-UI automated DJing application that adapts to the user’s preference via simple interactive decisions and feedback on taste. Starting from a preset or custom-defined decision tree modeled on common DJ practice, the system can gradually learn a more customized and user-specific tree. At the core of the system are structural representations of the musical content based on semantic audio technologies and inferred from features extracted from the audio directly in the browser.
