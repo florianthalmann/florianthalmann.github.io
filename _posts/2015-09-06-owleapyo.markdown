@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Owleapyo"
+date:   2017-09-06 14:23:58 +0000
+image: "/assets/img/projects/owleapyo.png"
+---
+
+Owleapyo is a Python live performance system based on semantic technologies
+and deep learning which listens to and interacts with a live performer using
+a number of controllers, including a modified version of the Ableton Push
+and the Leap Motion. It is based on a multidimensional model of musical
+expression capable of capturing and sending MIDI and sensor data.
+
+(Recordings available soon)
+
+<img src="/assets/img/projects/owleapyo.png" />

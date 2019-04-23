@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+image: /assets/img/projects/dymo-designer.png
 ---
 {:center: style="text-align: center"}
 
@@ -18,9 +19,15 @@ As a researcher I am mainly concerned with computer music, mathematical music th
 
 ## Articles and Proceedings
 
-Florian Thalmann, Thomas Wilmering, and Mark B. Sandler. [Cultural Heritage Documentation and Exploration of Live Music Events with Linked Data.]() Workshop on Semantic Applications for Audio and Music, Monterey, USA, 2018.
+Thomas Wilmering, Florian Thalmann, and Mark B. Sandler. [Exploration of Grateful Dead Concerts and Memorabilia on the Semantic Web.](http://ceur-ws.org/Vol-2180/paper-76.pdf) International Semantic Web Conference (ISWC), Monterey, USA, 2018.
 
-Florian Thalmann, Lucas Thompson, and Mark B. Sandler. [A User-Adaptive Automated DJ Web App with Object-Based Audio and Crowd-Sourced Decision Trees.]() Web Audio Conference WAC-2018, September 19–21, Berlin, Germany, 2018.
+Florian Thalmann, Thomas Wilmering, and Mark B. Sandler. [Cultural Heritage Documentation and Exploration of Live Music Events with Linked Data.](https://dl.acm.org/citation.cfm?id=3243910) Workshop on Semantic Applications for Audio and Music, Monterey, USA, 2018.
+
+Florian Thalmann, Lucas Thompson, and Mark B. Sandler. [A User-Adaptive Automated DJ Web App with Object-Based Audio and Crowd-Sourced Decision Trees.](https://webaudioconf.com/papers/a-user-adaptive-automated-dj-web-app-with-object-based-audio-and-crowd-sourced-decision-trees.pdf) Web Audio Conference WAC-2018, September 19–21, Berlin, Germany, 2018.
+
+David Moffat, Florian Thalmann, Mark B. Sandler. [Towards a Semantic Web Representation and Application of Audio Mixing Rules.](https://research.hud.ac.uk/media/assets/document/research/3-MoffatThalmannSandlerWIMP2018.pdf) In Proc. 4th Workshop on Intelligent Music Production (WIMP), Huddersfield, UK, 2018.
+
+Alo Allik, Florian Thalmann, and Mark Sandler. [MusicLynx: Exploring Music Through Artist Similarity Graphs.](https://dl.acm.org/citation.cfm?id=3186970) Companion Proceedings of the The Web Conference, Lyon, France, 2018.
 
 Thomas Wilmering, Florian Thalmann, György Fazekas, and Mark B. Sandler. [Bridging Fan Communities and Facilitating Access to Music Archives through Semantic Audio Applications.](http://www.aes.org/e-lib/online/browse.cfm?elib=19335) In Audio Engineering Society Convention 143. Audio Engineering Society, New York City, 2017.
 
@@ -84,10 +91,6 @@ Guerino Mazzola, Gérard Milmeister, Karim Morsy, and Florian Thalmann. Functors
 
 ## Posters, Talks, and Demos
 
-Thomas Wilmering, Florian Thalmann, and Mark B. Sandler. [Exploration of Grateful Dead Concerts and Memorabilia on the Semantic Web.]() International Semantic Web Conference (ISWC), Monterey, USA, 2018.
-
-Alo Allik, Florian Thalmann, and Mark Sandler. [MusicLynx: Exploring Music Through Artist Similarity Graphs.](https://dl.acm.org/citation.cfm?id=3186970) Companion Proceedings of the The Web Conference, Lyon, France, 2018.
-
 Adrian Hazzard, Chris Greenhalgh, Florian Thalmann, Gary Bromham. [Are you experienced? Dynamic music listening.](https://www.qmul.ac.uk/dmrn/dmrn12/), DMRN+12: Digital Music Research Network One-day Workshop, Queen Mary University of London, 2017.
 
 Florian Thalmann, Sebastian Ewert, Geraint A. Wiggins, Mark B. Sandler. [Deforming Recordings of Musical Performances using Dynamic Music Objects.](http://c4dm.eecs.qmul.ac.uk/dmrn/events/dmrnp10) DMRN+10: Digital Music Research Network Workshop, London, 2015.
@@ -127,6 +130,7 @@ Program Committee:
 - [Audio Mostly](http://audiomostly.com) 2017
 
 Journal Reviews:
+- [ACM Transactions on Multimedia Computing Communications and Applications](https://tomm.acm.org)
 - [Journal of Mathematics and Computation in Music](https://www.tandfonline.com/loi/tmam20)
 - [Journal of the Audio Engineering Society](http://www.aes.org/journal/)
 

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Semantic Machine"
+date:   2019-03-30 14:23:58 +0000
+image: "/assets/img/projects/semantic-machine.png"
+---
+
+The Semantic Machine is an contextual composition created in collaboration with
+Tracy Redhead. Via mobile sensors and data taken from public APIs, the work adjusts to the listener’s context and varies its musical characteristics depending on location, time of the day and weather. We used traditional music production tools as well as the Semantic Player, a dynamic music web framework which allows data manipulation techniques familiar from computer music and the video game industry.
+
+<img src="/assets/img/projects/semantic-machine.png" />

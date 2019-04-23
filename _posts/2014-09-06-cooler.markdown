@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Cooler than Open Season"
+date:   2014-09-06 14:23:58 +0000
+image: "/assets/img/projects/cooler.jpg"
+---
+
+
+In a collaboration with Tobias Vogler, we developed a web application where visitors can "produce" a song for the band Open Season. They can do this by simply recording their sounds using their cellphone microphone or any other input directly in the browser, where the sounds are processed in various ways and automatically added to some prerecorded sounds by the band, even while the song is being listened to. The signal processing part was programmed using the Web Audio API in javascript, with an added Midi playback engine.
+<a href="http://cooler.openseason.ch" target="blank">Live</a>
+/
+<a href="https://github.com/florianthalmann/cooler-than-openseason" target="blank">GitHub</a>
+
+<img src="/assets/img/projects/cooler.jpg" />

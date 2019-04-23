@@ -7,4 +7,5 @@ image: "/assets/img/projects/leap.jpg"
 ---
 A collaboration with Daniel Tormoen brings Leap Motion to BigBang.
 
-![My helpful screenshot]({{ "/assets/img/projects/leap.jpg" }})
+Improvisations on the Grand Piano with Leap Motion Gestures and BigBang.
+<iframe width="100%" frameborder="no" style="display:inline-block;" src="https://www.youtube.com/embed/ytGcKfhzF2Q "></iframe>

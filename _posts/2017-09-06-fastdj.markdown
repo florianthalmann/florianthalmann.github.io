@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Fast DJ"
+date:   2016-09-06 14:23:58 +0000
+image: "/assets/img/projects/dj.jpg"
+dark: true
+---
+
+An automatic web-based minimal-UI automated DJing application that adapts to the user’s preference via simple interactive decisions and feedback on taste. Starting from a preset or custom-defined decision tree modeled on common DJ practice, the system can gradually learn a more customized and user-specific tree. At the core of the system are structural representations of the musical content based on semantic audio technologies and inferred from features extracted from the audio directly in the browser.
+<a href="https://dynamic-music.github.io/fast-dj" target="blank">Live</a>
+/
+<a href="https://github.com/dynamic-music/fast-dj" target="blank">GitHub</a>
+
+<img src="/assets/img/projects/fast-dj.png"/>
+
+<img src="/assets/img/projects/dj.jpg"/>

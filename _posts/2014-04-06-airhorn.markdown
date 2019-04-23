@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Open Season Airhorn"
+date:   2014-04-06 14:23:58 +0000
+image: "/assets/img/projects/osairhorn.jpeg"
+---
+
+
+An Android application lets users play airhorn and other sounds, bend and filter them, and add a delay with variable delay time and feedback. Reacts to multitouch and accelerometer gestures. Built with libpd and processing for Android.
+<a href="https://play.google.com/store/apps/details?id=org.flobot.openseasonairhorn" target="blank">Google Play</a>
+
+<img src="/assets/img/projects/osairhorn.jpeg" />

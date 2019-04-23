@@ -2,6 +2,7 @@
 layout: page
 title: Software
 permalink: /software/
+image: /assets/img/projects/triangles.png
 ---
 This page contains descriptions, links, and downloads for some software projects I have been working on, in the context of my research, past employments, and in my free time.
 

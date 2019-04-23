@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Valves"
+date:   2010-04-06 14:23:58 +0000
+image: "/assets/img/projects/valves.jpg"
+dark: true
+---
+
+
+An iOS application for mental trumpet practicing. Tracks multitouch finger movements, evaluates them regarding accuracy and correctness, and keeps long-term statistics. Based on my extension and generalization of Nicolas Slonimsky's symmetrical scales.
+<a href="/assets/files/valves.zip" target="blank">Download</a>
+
+<img src="/assets/img/projects/valves.jpg" />

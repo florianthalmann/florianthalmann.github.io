@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Harmony of the Spheres"
+date:   2015-03-10 22:23:58 +0000
+image: "/assets/img/projects/hots.png"
+---
+An Android app that investigates the sonic potential of objects in n-dimensional physical spaces with transforming properties. Using gestural multi-touch and accelerometer control, users can create musical objects in these spaces and interact with them, while they move and react to the physical conditions of the spaces. The properties of these objects can be arbitrarily mapped to sound parameters, either of an internal synthesizer or external systems, and they can be visualized in flexible ways. On a larger scale, users can make soundscapes by defining sequences of physical space conditions, each of which has an effect on the motion and properties of the physical objects.
+<a href="https://play.google.com/store/apps/details?id=org.flobot.hots" target="blank">Google Play</a>
+
+<img src="/assets/img/projects/hots.png" />

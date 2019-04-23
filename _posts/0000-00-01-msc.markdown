@@ -3,8 +3,11 @@ layout: post
 title:  "Wallpapers and Alterations of Musical Structures"
 date:   2007-01-01 22:23:58 +0000
 categories: rubato structure wallpaper alteration masters
-image: "/assets/img/projects/wpalt.jpg"
+image: "/assets/img/projects/wallpaper.jpg"
+dark: true
 ---
 Two new rubettes bring a generalization of the Presto software's OrnaMagic module's functionality to Rubato Composer.
 
 ![My helpful screenshot]({{ "/assets/img/projects/wpalt.jpg" }})
+
+![My helpful screenshot]({{ "/assets/img/projects/wallpaper.jpg" }})

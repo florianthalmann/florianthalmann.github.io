@@ -1,0 +1,67 @@
+---
+---
+
+$background-color: #222222; /* a dark, off-black for the bg */
+$text-color: #cccccc; /* an off-white for the text */
+$grey-color-light: #222222; /* for the border-top separators */
+$grey-color-dark: #dddddd; /* such as the site title in the header, visited */
+$brand-color: #9ecfff;
+
+@import "minima";
+
+.TitleBanner {
+  background-size: cover;
+  background-position: center;
+}
+
+.page-content {
+  width: 100%;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.overlay {
+  position: absolute;
+  color: #ffffff;
+  font-size: 160%;
+  text-shadow: 0 0 4px #222222;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+@import "neat";
+
+$grid: (
+  columns: 3,
+  gutter: 0px,
+);
+
+.grid {
+  @include grid-container;
+}
+
+.grid_column {
+  @include grid-column(1, $grid);
+}

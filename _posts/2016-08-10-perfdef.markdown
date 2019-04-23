@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Performance Deformations"
+date:   2016-08-10 22:23:58 +0000
+image: "/assets/img/projects/performance-playground.png"
+invert: true
+---
+
+An educational web application for comparative performance analysis based on source separation and object-based audio techniques. The underlying system decomposes recordings of classical music performances into note events using score-informed source separation and represents the decomposed material using semantic web technologies. In a visual and interactive way, users can explore individual performances by highlighting specific musical aspects directly within the audio and by altering the temporal characteristics to obtain versions in which the micro-timing is exaggerated or suppressed. Multiple performances of the same work can be compared by juxtaposing and blending between the corresponding recordings. Finally, by adjusting the timing of events, users can generate intermediates of multiple performances to investigate their commonalities and differences.
+<a href="https://github.com/florianthalmann/performance-playground" target="blank">GitHub</a>
+
+<img src="/assets/img/projects/performance-playground.png" />
