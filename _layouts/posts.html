@@ -7,11 +7,11 @@ layout: wide
     <!--h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2-->
     <div class="grid">
       {%- for post in site.posts -%}
-      <div class="grid_column" style="width: 33%";>
+      <!--div class="grid_column" style="width: 33%";-->
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <a class="container" href="{{ post.url | relative_url }}">
           {% if post.image %}
-            <img style="object-fit: cover; width: 100%; height: 300px;
+            <img style="object-fit: cover; width: 100%; height: 350px;
               {% if post.invert %} filter: invert(1);
               {% elsif post.dark %} filter: brightness(50%); {% endif %}
               " src={{ post.image }} title={{ post.title | escape }} />
@@ -27,7 +27,7 @@ layout: wide
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-      </div>
+      <!--/div-->
       {%- endfor -%}
     </div>
 

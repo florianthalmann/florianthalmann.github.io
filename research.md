@@ -6,18 +6,30 @@ image: /assets/img/projects/dymo-designer.png
 ---
 {:center: style="text-align: center"}
 
-As a researcher I am mainly concerned with computer music, mathematical music theory, knowledge representation, machine learning, and interdisciplinary arts. My current interests include:
+As a researcher I am mainly concerned with computer music, computational musicology, mathematical music theory, knowledge representation, machine learning, and interdisciplinary arts. My current interests include:
 
+* automatic analysis of large music collections
 * alternative music composition and improvisation systems
-* ontological and mathematical representations of music
-* musical human-computer interaction and gestural control
-* intuitive control of sound synthesis, sound design, and algorithmic composition
+* ontological and mathematical music representation and visualization
+* musical human-computer interaction and musical creativity
 * musical applications of machine learning
-* models of creative processes
-* interactive visual representation of complex musical objects
 
 
 ## Articles and Proceedings
+
+Florian Thalmann, Kazuyoshi Yoshii, Thomas Wilmering, Geraint Wiggins, and Mark Sandler. [A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory](). Proceedings of the 21st International Society for Music Information Retrieval Conference, Virtual Conference, 2020.
+
+Delia Fano Yela, Florian Thalmann, Vincenzo Nicosia, Dan Stowell, and Mark Sandler. [Online visibility graphs: Encoding visibility in a binary search tree.](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023069) Physical Review Research, 2020.
+
+Florian Thalmann, Geraint Wiggins, and Mark Sandler. [Representing Modifiable and Reusable Musical Content on the Web with Constrained Multi-Hierarchical Structures.](https://ieeexplore.ieee.org/document/8937792) IEEE Transactions on Multimedia, 2020.
+
+Thomas Wilmering, Florian Thalmann, and Mark B. Sandler. [Alignment and Timeline Construction for Incomplete Analogue Audience Recordings of Historical Live Music Concerts.](http://www.aes.org/e-lib/browse.cfm?elib=20644 ) In Audio Engineering Society Convention 147. New York City, 2019.
+
+Alo Allik, Florian Thalmann, Cornelia Metzig, Mark Sandler. [Join my party! How can we enhance social interactions in music streaming?](https://pdfs.semanticscholar.org/2610/6b087dff0f327fd4a3785d2edc5cfc568546.pdf) In Web Audio Conference WAC-2019. Trondheim, 2019.
+
+Florian Thalmann, Thomas Wilmering, and Mark B. Sandler. [Query-based Mashups of Historical Live Music Recordings.](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/62422/Thalmann%20Query-based%20Mashups%202019%20Published.pdf) Proceedings of the 9th Conference of Japanese Association for Digital Humanities (JADH2019). Osaka, 2019.
+
+Alo Allik, Florian Thalmann, Cornelia Metzig, Mark Sandler. [moodplay.github.io: an online collaborative music player.](https://www.ntnu.edu/documents/1282113268/1290817988/WAC2019-CameraReadySubmission-23.pdf) Proceedings of the Web Audio Conference, Trondheim, 2019.
 
 Thomas Wilmering, Florian Thalmann, and Mark B. Sandler. [Exploration of Grateful Dead Concerts and Memorabilia on the Semantic Web.](http://ceur-ws.org/Vol-2180/paper-76.pdf) International Semantic Web Conference (ISWC), Monterey, USA, 2018.
 
@@ -27,7 +39,7 @@ Florian Thalmann, Lucas Thompson, and Mark B. Sandler. [A User-Adaptive Automate
 
 David Moffat, Florian Thalmann, Mark B. Sandler. [Towards a Semantic Web Representation and Application of Audio Mixing Rules.](https://research.hud.ac.uk/media/assets/document/research/3-MoffatThalmannSandlerWIMP2018.pdf) In Proc. 4th Workshop on Intelligent Music Production (WIMP), Huddersfield, UK, 2018.
 
-Alo Allik, Florian Thalmann, and Mark Sandler. [MusicLynx: Exploring Music Through Artist Similarity Graphs.](https://dl.acm.org/citation.cfm?id=3186970) Companion Proceedings of the The Web Conference, Lyon, France, 2018.
+Alo Allik, Florian Thalmann, and Mark Sandler. [MusicLynx: Exploring Music Through Artist Similarity Graphs.](https://dl.acm.org/citation.cfm?id=3186970) Companion Proceedings of The Web Conference, Lyon, France, 2018.
 
 Thomas Wilmering, Florian Thalmann, György Fazekas, and Mark B. Sandler. [Bridging Fan Communities and Facilitating Access to Music Archives through Semantic Audio Applications.](http://www.aes.org/e-lib/online/browse.cfm?elib=19335) In Audio Engineering Society Convention 143. Audio Engineering Society, New York City, 2017.
 
