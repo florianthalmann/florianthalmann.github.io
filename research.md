@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-image: /assets/img/projects/dymo-designer.png
+image: /assets/img/projects/dymo-designer.jpg
 ---
 {:center: style="text-align: center"}
 
