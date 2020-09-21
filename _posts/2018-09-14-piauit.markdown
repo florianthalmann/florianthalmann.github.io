@@ -2,7 +2,7 @@
 layout: post
 title:  "Play it Again! Use it Together"
 date:   2018-09-14 14:23:58 +0000
-image: "/assets/img/projects/piauit.png"
+image: "/assets/img/projects/piauit.jpg"
 ---
 
 Web application for the exhibition Play it Again! Use it Together with the Open Music Archive at Victoria Gallery in Liverpool, where Shellac records are being digitised, analyzed automatically, and fed into an archiving system based on Semantic Web technologies. A Node server generates an infinite growing composition created from recently digitized material and sent to all clients, one of which also plays in the exhibition.
@@ -10,4 +10,4 @@ Web application for the exhibition Play it Again! Use it Together with the Open 
 /
 <a href="https://github.com/open-music-archive" target="blank">GitHub</a>
 
-<img src="/assets/img/projects/piauit.png" />
+<img src="/assets/img/projects/piauit.jpg" />

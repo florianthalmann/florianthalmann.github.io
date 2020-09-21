@@ -2,7 +2,7 @@
 layout: post
 title:  "Plunderphonics"
 date:   2019-03-30 14:23:58 +0000
-image: "/assets/img/projects/plunderphonics.png"
+image: "/assets/img/projects/plunderphonics.jpg"
 ---
 
 Plunderphonics is a web application that automatically creates intelligent
@@ -14,4 +14,4 @@ artefacts from the corresponding live concerts gathered from various web platfor
 and linked together using Semantic Web technologies.
 <a href="https://grateful-dead-live.github.io/plunderphonics" target="blank">Live</a>
 
-<img src="/assets/img/projects/plunderphonics.png" />
+<img src="/assets/img/projects/plunderphonics.jpg" />

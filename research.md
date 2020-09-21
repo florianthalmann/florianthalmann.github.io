@@ -17,7 +17,7 @@ As a researcher I am mainly concerned with computer music, computational musicol
 
 ## Articles and Proceedings
 
-Florian Thalmann, Kazuyoshi Yoshii, Thomas Wilmering, Geraint Wiggins, and Mark Sandler. [A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory](). Proceedings of the 21st International Society for Music Information Retrieval Conference, Virtual Conference, 2020.
+Florian Thalmann, Kazuyoshi Yoshii, Thomas Wilmering, Geraint Wiggins, and Mark Sandler. [A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory](https://). Proceedings of the 21st International Society for Music Information Retrieval Conference, Virtual Conference, 2020.
 
 Delia Fano Yela, Florian Thalmann, Vincenzo Nicosia, Dan Stowell, and Mark Sandler. [Online visibility graphs: Encoding visibility in a binary search tree.](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023069) Physical Review Research, 2020.
 

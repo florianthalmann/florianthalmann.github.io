@@ -2,7 +2,7 @@
 layout: post
 title:  "Grateful Live"
 date:   2016-09-06 14:23:58 +0000
-image: "/assets/img/projects/grateful-live.png"
+image: "/assets/img/projects/grateful-live.jpg"
 dark: true
 ---
 
@@ -11,4 +11,4 @@ A platform for the representation and discovery of live music recordings and ass
 /
 <a href="https://github.com/grateful-dead-live" target="blank">GitHub</a>
 
-<img src="/assets/img/projects/grateful-live.png" />
+<img src="/assets/img/projects/grateful-live.jpg" />
