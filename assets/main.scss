@@ -24,6 +24,10 @@ $brand-color: #6e9fff;
   color: white;
 }
 
+.site-nav {
+  z-index: 999;
+}
+
 .overlay {
   position: absolute;
   color: #ffffff;
