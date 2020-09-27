@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Moodplay"
+date:   2016-10-06 14:23:58 +0000
+image: "/assets/img/projects/moodplay.jpg"
+dark: true
+---
+
+moodplay.github.io is an online music streaming platform that allows users to collaboratively choose music by mood using browsers on mobile devices. Users can participate in the global Moodplay party where everyone is added upon arrival, but they can also create personal parties and control who are invited. There is functionality that allows participants to share their favourite tracks with other invited participants. The system analyses the uploaded tracks by audio features to find their corresponding mood coordinates, so that the automatic DJ module can incorporate the new additions to the continuous mix. The interface is based on 2-dimensional scattering of tracks in a mood space derived from user tags in https://www.last.fm/. Each track has been assigned coordinates that range between negative and positive on the horizontal axis and calm to excited on the vertical from bottom to top. The users can explore the mood space and vote what kind of music they want to listen to while also being shown the preferences of other participants. Since each vote lasts for a limited time, the system keeps updating the average mood selection of all participants of the party. This means that the player cursor that keeps track of the average moves continuously around the space and a new track is selected after a certain time. The music is automatically mixed by an automatic DJ module that models various DJ’ing styles using content-based audio features that represent musical parameters such as tempo, beats, bars, keys, instrumentation and volume to find the best match for next tracks in the continuous mix by tempo, tonality and timbre.
+<a href="https://moodplay.github.io" target="blank">Live</a>
+/
+<a href="https://github.com/darkjazz/moodplay" target="blank">GitHub</a>
+
+<img src="/assets/img/projects/moodplay.jpg"/>

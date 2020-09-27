@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Shared Structure"
+date:   2020-07-30 14:23:58 +0000
+image: "/assets/img/projects/genetics.jpg"
+dark: true
+published: false
+---
+
+
+
+<img src="/assets/img/projects/genetics.jpg" />

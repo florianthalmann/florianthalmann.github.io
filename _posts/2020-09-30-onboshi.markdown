@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Onboshi"
+date:   2020-09-25 14:23:58 +0000
+image: "/assets/img/projects/onboshi.jpg"
+published: false
+---
+
+
+
+<img src="/assets/img/projects/onboshi.jpg" />
