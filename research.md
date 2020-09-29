@@ -29,10 +29,6 @@ Alo Allik, Florian Thalmann, Cornelia Metzig, Mark Sandler. [Join my party! How 
 
 Florian Thalmann, Thomas Wilmering, and Mark B. Sandler. [Query-based Mashups of Historical Live Music Recordings.](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/62422/Thalmann%20Query-based%20Mashups%202019%20Published.pdf) Proceedings of the 9th Conference of Japanese Association for Digital Humanities (JADH2019). Osaka, 2019.
 
-Alo Allik, Florian Thalmann, Cornelia Metzig, Mark Sandler. [moodplay.github.io: an online collaborative music player.](https://www.ntnu.edu/documents/1282113268/1290817988/WAC2019-CameraReadySubmission-23.pdf) Proceedings of the Web Audio Conference, Trondheim, 2019.
-
-Thomas Wilmering, Florian Thalmann, and Mark B. Sandler. [Exploration of Grateful Dead Concerts and Memorabilia on the Semantic Web.](http://ceur-ws.org/Vol-2180/paper-76.pdf) International Semantic Web Conference (ISWC), Monterey, USA, 2018.
-
 Florian Thalmann, Thomas Wilmering, and Mark B. Sandler. [Cultural Heritage Documentation and Exploration of Live Music Events with Linked Data.](https://dl.acm.org/citation.cfm?id=3243910) Workshop on Semantic Applications for Audio and Music, Monterey, USA, 2018.
 
 Florian Thalmann, Lucas Thompson, and Mark B. Sandler. [A User-Adaptive Automated DJ Web App with Object-Based Audio and Crowd-Sourced Decision Trees.](https://webaudioconf.com/papers/a-user-adaptive-automated-dj-web-app-with-object-based-audio-and-crowd-sourced-decision-trees.pdf) Web Audio Conference WAC-2018, September 19–21, Berlin, Germany, 2018.
@@ -102,6 +98,10 @@ Gérard Milmeister, Florian Thalmann, and Guerino Mazzola. [The Rubato Composer 
 Guerino Mazzola, Gérard Milmeister, Karim Morsy, and Florian Thalmann. Functors for Music: The Rubato Composer System. In: Randy Adams, S. Gibson, S. Muller Arisona (eds.): [Transdisciplinary Digital Art: Sound, Vision and the New Screen.](https://www.springer.com/gp/book/9783540794851) Springer CCIS, Heidelberg et al. 2008.
 
 ## Posters, Talks, and Demos
+
+Alo Allik, Florian Thalmann, Cornelia Metzig, Mark Sandler. [moodplay.github.io: an online collaborative music player.](https://www.ntnu.edu/documents/1282113268/1290817988/WAC2019-CameraReadySubmission-23.pdf) Proceedings of the Web Audio Conference, Trondheim, 2019.
+
+Thomas Wilmering, Florian Thalmann, and Mark B. Sandler. [Exploration of Grateful Dead Concerts and Memorabilia on the Semantic Web.](http://ceur-ws.org/Vol-2180/paper-76.pdf) International Semantic Web Conference (ISWC), Monterey, USA, 2018.
 
 Adrian Hazzard, Chris Greenhalgh, Florian Thalmann, Gary Bromham. [Are you experienced? Dynamic music listening.](https://www.qmul.ac.uk/dmrn/dmrn12/), DMRN+12: Digital Music Research Network One-day Workshop, Queen Mary University of London, 2017.
 
