@@ -6,7 +6,7 @@ image: /assets/img/projects/dymo-designer.jpg
 ---
 {:center: style="text-align: center"}
 
-As a researcher I am mainly concerned with computer music, computational musicology, mathematical music theory, knowledge representation, machine learning, and interdisciplinary arts. My current interests include:
+As a researcher I'm working in the field of computer music, computational musicology, mathematical music theory, knowledge representation, machine learning, and interdisciplinary arts. My current interests include:
 
 * automatic analysis of large music collections
 * alternative music composition and improvisation systems

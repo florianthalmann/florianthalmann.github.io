@@ -65,3 +65,8 @@ $brand-color: #6e9fff;
   grid-row-gap: 5px;
   grid-column-gap: 5px;
 }
+
+audio::-webkit-media-controls-panel
+{
+ background-color: #333333;
+}

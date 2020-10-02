@@ -3,9 +3,13 @@ layout: post
 title:  "Onboshi"
 date:   2020-09-25 14:23:58 +0000
 image: "/assets/img/projects/onboshi.jpg"
-published: false
 ---
 
+An infinite immersive musical topological sphere mapped onto our planet. Gradually changes with the listener's geographical position and sounds different anywhere on earth.
+<a href="" target="blank">Google Play</a>
 
+Two recorded walks through neighborhoods in Kyoto:
+<audio src="/assets/audio/onboshi-nantou2.mp3" controls></audio>
+<audio src="/assets/audio/onboshi-nantou.mp3" controls></audio>
 
 <img src="/assets/img/projects/onboshi.jpg" />
