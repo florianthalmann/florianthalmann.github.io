@@ -5,6 +5,7 @@ date:   2007-01-01 22:23:58 +0000
 categories: morphing rubato composer
 image: "/assets/img/projects/morphing.png"
 invert: true
+published: false
 ---
 The Morphing rubette performs a bidirectional alteration that gradually morphs a musical piece into another, just as is common in image processing.
 

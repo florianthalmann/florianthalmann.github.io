@@ -11,3 +11,18 @@ The BigBang rubette brings gestural composition to Rubato Composer. It allows us
 <img src="/assets/img/projects/bigbang.jpg" width="100%"/>
 
 <img src="/assets/img/projects/wallpaper.jpg" width="100%"/>
+
+Improvisations on the Grand Piano with Leap Motion Gestures and BigBang.
+<iframe width="100%" frameborder="no" style="display:inline-block;" src="https://www.youtube.com/embed/ytGcKfhzF2Q "></iframe>
+
+A new version of BigBang records the creative process of its users and allows them to interact with the past.
+
+<img src="/assets/img/projects/process.jpg" width="100%"/>
+
+A new version of BigBang allows for real-time sound synthesis. Its interactive way of tracking the creative process is well suited for sound design.
+
+<img src="/assets/img/projects/fmset.jpg" width="100%"/>
+
+Rubato Composer's versatility and generality becomes tangible with new examples of musical datatypes.
+
+<img src="/assets/img/projects/progression.jpg" width="100%"/>

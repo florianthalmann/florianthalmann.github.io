@@ -2,14 +2,14 @@
 layout: post
 title:  "Onboshi"
 date:   2020-09-25 14:23:58 +0000
-image: "/assets/img/projects/onboshi.jpg"
+image: "/assets/img/projects/onboshi.png"
 ---
 
-An infinite immersive musical topological sphere mapped onto our planet. Gradually changes with the listener's geographical position and sounds different anywhere on earth.
+An infinite immersive musical sphere mapped onto our planet. Sounds different anywhere on earth and gradually changes with the listener's geographical position. Made with topologies generated with simplex noise and mapped to musical parameters.
 <a href="" target="blank">Google Play</a>
 
 Two recorded walks through neighborhoods in Kyoto:
 <audio src="/assets/audio/onboshi-nantou2.mp3" controls></audio>
 <audio src="/assets/audio/onboshi-nantou.mp3" controls></audio>
 
-<img src="/assets/img/projects/onboshi.jpg" />
+<img src="/assets/img/projects/onboshi.png" />

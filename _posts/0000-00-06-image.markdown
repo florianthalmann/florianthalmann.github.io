@@ -5,6 +5,7 @@ date:   2012-01-01 22:23:58 +0000
 categories: multidimensional image transformation rubato composer bigbang
 image: "/assets/img/projects/paintbrushes.jpg"
 dark: true
+published: false
 ---
 The ImageFileIn and ImageFileOut rubettes and a new form allow for image processing in Rubato Composer.
 
