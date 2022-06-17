@@ -15,4 +15,4 @@ I also [compose, produce, and perform](/music/) electronic, improvised, and popu
 
 In the past I have been active as an independent and contracted software engineer in the industry and governmental institutions. Past employments include the [Swiss Federal Office of Metrology METAS](https://www.metas.ch), [Puzzle ITC](https://www.puzzle.ch), [PostFinance](https://www.postfinance.ch), [Siemens](https://new.siemens.com/ch/).
 
-[Download Latest CV]()
+[Download Latest CV](/assets/files/CV21.pdf)

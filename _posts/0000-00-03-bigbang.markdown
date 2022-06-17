@@ -26,3 +26,7 @@ A new version of BigBang allows for real-time sound synthesis. Its interactive w
 Rubato Composer's versatility and generality becomes tangible with new examples of musical datatypes.
 
 <img src="/assets/img/projects/progression.jpg" width="100%"/>
+
+<iframe width="100%" frameborder="no" style="display:inline-block;" src="https://www.youtube.com/watch?v=JlIpjOlKYUc"></iframe>
+
+<iframe width="100%" frameborder="no" style="display:inline-block;" src="https://www.youtube.com/watch?v=zwxxCzNtbEQ"></iframe>
